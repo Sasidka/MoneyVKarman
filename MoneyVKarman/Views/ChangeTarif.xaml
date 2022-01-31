@@ -41,7 +41,8 @@
             <Button  Width="170"
                      Height="25"
                      Content="Расчитать доход"
-                     Click="BP_Click" />
+                     Click="BP_Click" 
+                     Background="Beige"/>
         </StackPanel>
         </StackPanel>
     </Grid>
